@@ -2,6 +2,8 @@
 
 ## Foundations of Software Development
 
+### In each of my class files, you will find reading notes consisting of what I have learned in CodeFellows Code:201 Course!
+
 - [Class 1](class1.md)
 - [Class 2](class2.md)
 - [Class 3](class3.md)
