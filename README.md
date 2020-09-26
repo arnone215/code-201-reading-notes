@@ -17,3 +17,7 @@
 - [Class 13](class13.md)
 - [Class 14](class14.md)
 - [Class 15](class15.md)
+
+## ***Follow me on social media!***
+- [GitHub](github.com/arnone215)
+- [LinkedIn](https://www.linkedin.com/in/thomas-arnone-39098967)
