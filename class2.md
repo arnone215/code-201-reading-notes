@@ -2,9 +2,9 @@
 
 - When creating a web page, you add *tags* (aka known as markup) to the contents of a page. These tags provide an extra meaing and allow browsers to show users the appropriate structure for the page.
 
-1. Headings ( <h1> )
+1. Headings  h1 
   
-2. Paragraphs ( <p> )
+2. Paragraphs  p
   
 3. Bold & Italics <b>
   
