@@ -15,3 +15,5 @@ There are several types of information that need to be displayed in a grid or ta
 
 
 ## Chapter 3: “Functions, Methods, and Objects” (pp.106-144 JS BOOK)
+
+
